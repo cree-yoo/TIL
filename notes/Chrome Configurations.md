@@ -1,7 +1,7 @@
 ---
 title: Chrome Configurations
 created: '2020-04-24T05:57:56.837Z'
-modified: '2020-04-24T05:58:54.325Z'
+modified: '2020-04-24T06:00:57.438Z'
 ---
 
 # Chrome Configurations
@@ -16,6 +16,7 @@ modified: '2020-04-24T05:58:54.325Z'
 ## Configurations
 
 ### Omnibox에서 이미 열려져 있는 Tab 찾기
+> find opened tabs in omnibox
 
 ```
 chrome://flags/#omnibox-short-bookmark-suggestions
